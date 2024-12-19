@@ -1,6 +1,6 @@
 # Portfolio | Free
 
-Ce code a été réalisé par **@Alouchi200** un jeune développeur. *Portfolio :* http://alouchi200.free.fr/portfolio/
+Ce code a été réalisé par **@6krayniix9** un jeune développeur. Portfolio
 
 # Utilisation
 
